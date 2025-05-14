@@ -18,9 +18,9 @@ com/
         │       └── Rental.java
         ├── port/
         │   └── out/
-        │       ├── CarRepository.java
-        │       ├── ClientRepository.java
-        │       └── RentalRepository.java
+        │       ├── CarRepository.java      🅸
+        │       ├── ClientRepository.java   🅸
+        │       └── RentalRepository.java  🅸
         └── adapter/
             ├── out/
             │   └── persistence/
