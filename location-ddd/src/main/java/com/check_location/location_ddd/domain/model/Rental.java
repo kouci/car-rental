@@ -14,6 +14,7 @@ public class Rental {
     private LocalDate endDate;
     private LocalDate actualReturnDate;
     private boolean penaltyApplied;
+
     public boolean isActive() {
         return actualReturnDate == null;
     }

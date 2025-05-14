@@ -1,6 +1,6 @@
 package com.check_location.location_ddd.domain.model;
 
-import com.check.location.enums.CarStatus;
+import com.check_location.location_ddd.domain.enums.CarStatus;
 import lombok.Data;
 
 import java.time.LocalDate;

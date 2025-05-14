@@ -1,4 +1,6 @@
-package com.check.location.enums;
+package com.check_location.location_ddd.domain.enums;
+
+
 
 public enum CarStatus {
     AVAILABLE,
