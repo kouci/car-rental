@@ -1,12 +1,10 @@
 package com.check.location.repository;
 
-
 import com.check.location.model.Client;
 import org.springframework.stereotype.Repository;
-
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.stream.Collectors;
+
 
 @Repository
 public class ClientRepository {

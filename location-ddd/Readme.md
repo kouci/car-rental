@@ -1,4 +1,4 @@
-# Structure du projet (DDD)
+# Structure du projet (DDD + Clean Architecture + Hexagonale)
 
 ```
 com/
